@@ -1,6 +1,6 @@
-/MDK/Objects/*.*
-/MDK/Listings/*.*
-/MDK/*.htm
-/MDK/*.uvguix.*
-/MDK/*.uvoptx
+/MDK-ARM/Objects/*.*
+/MDK-ARM/Listings/*.*
+/MDK-ARM/*.htm
+/MDK-ARM/*.uvguix.*
+/MDK-ARM/*.uvoptx
 
